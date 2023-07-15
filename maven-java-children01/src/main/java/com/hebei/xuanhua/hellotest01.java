@@ -7,5 +7,6 @@ public class hellotest01 {
         System.out.println("hello-world003");
         System.out.println("hello-world-master01");
         System.out.println("hello-hot-fix01");
+        System.out.println("想github的第一次提交");
     }
 }
